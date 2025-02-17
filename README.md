@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @SHAHRAIZAFZAL 🚀 Full-Stack Developer | MERN Stack | 
-🚀 Full-Stack Developer | MERN Stack | WordPress Expert
+I’m passionate about web development, specializing in the MERN stack. My interests include building modern web applications, designing intuitive UI/UX, and exploring the latest trends in software development. Currently, I’m deepening my expertise in React.js, Node-js, and API development, while also learning about DevOps and cloud computing.
 
-I’m passionate about web development, specializing in the MERN stack and WordPress. My interests include building modern web applications, designing intuitive UI/UX, and exploring the latest trends in software development. Currently, I’m deepening my expertise in React.js, Next.js, and API development, while also learning about DevOps and cloud computing.
-
-I’m always excited to collaborate on open-source projects, innovative web applications, and WordPress theme/plugin development. If you’re working on something interesting, let’s connect and create something amazing together!
+I’m always excited to collaborate on open-source projects and innovative web applications. If you’re working on something interesting, let’s connect and create something amazing together!
 - 📫 How to reach me:
      Email:
   rshahraizafzal@gmail.com
