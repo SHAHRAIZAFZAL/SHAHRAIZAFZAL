@@ -7,7 +7,7 @@ I’m passionate about web development, specializing in the MERN stack. My inter
      Email:
   rshahraizafzal@gmail.com
      LinkedIn:
-  https://www.linkedin.com/in/shahraiz-afzal-274b2823a/
+  www.linkedin.com/in/shahraiz-afzal
      GitHub:
   https://github.com/SHAHRAIZAFZAL
 
